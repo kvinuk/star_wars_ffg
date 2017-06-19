@@ -15,6 +15,7 @@ AllCops:
     - spec/spec_helper.rb
     - config.ru
     - Rakefile
+    - config/spring.rb
 
 Documentation:
   Enabled: false
